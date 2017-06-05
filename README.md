@@ -1,4 +1,4 @@
-# [Tabchi V2](https://telegram.me/LuaError)
+# [Tabchi V2.1](https://telegram.me/LuaError)
 
 * * *
 
@@ -34,7 +34,10 @@
 |🔶!settext [text] | تنظیم پیام ادشدن کانتکت |
 |🔷!text | نمایش پیام ذخیره شده اد کانتکت |
 |🔶!reload| ریلود کردن ربات |
-|🔷 $cmd | اجرا کردن دستور در ترمینال |
+|🔷!addsudo [id]| اضافه کردن سودو به ربات |
+|🔶!remsudo [id]| حذف کردن سودو ربات |
+|🔷!serverinfo| نمایش وضعیت سرور |
+|🔶 $cmd | اجرا کردن دستور در ترمینال |
 
 * * *
 
@@ -75,6 +78,6 @@ sudo tmux new-session -s script "bash steady.sh -t"
 ## 🇮🇷 تهیه شده توسط 🇮🇷
 [LuaError](https://telegram.me/LuaError)
 
-# [گروه حل مشکلات](https://t.me/joinchat/AAAAAEHcoexoX2IYNeu-Yg)
+# [گروه حل مشکلات](https://t.me/joinchat/AAAAAEHcoez4AiD4h4C-bQ)
 
 # [سازنده](https://t.me/ThatsAlone)
